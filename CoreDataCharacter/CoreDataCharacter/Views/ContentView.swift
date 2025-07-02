@@ -27,7 +27,7 @@ struct ContentView: View  {
                     .foregroundStyle(Color.primary)
                 }
                 .onDelete(perform: deleteCharacter)
-            }.navigationTitle("Guildas")
+            }.navigationTitle("Guildassssssss teste")
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button(action: {
