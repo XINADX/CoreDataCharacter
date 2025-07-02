@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+.Trashes
+.AppleDouble
+.LSOverride
+
+# Xcode user data and workspace settings
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xcscheme
+*.moved-aside
+
+# Build generated files and folders
+build/
+DerivedData/
+
+# Swift Package Manager
+Packages/
+Package.resolved
+.swiftpm/
+
+# CocoaPods (if used)
+Pods/
+
+# Carthage (if used)
+Carthage/Build/
+Carthage/Checkouts/
+
+# fastlane (if used)
+fastlane/report.xml
+fastlane/screenshots/
+
+# IDE folders
+.idea/
+
+# Other
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
